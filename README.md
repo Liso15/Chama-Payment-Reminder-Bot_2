@@ -197,4 +197,4 @@ Based on the original PRD and current MVP status:
 ## Colloborator
 - Liso Mlunguza
 - Email: lisomlunguza8@gmail.com
-I'll also create the `.env.example` file mentioned in the README.
+
